@@ -50,5 +50,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 
 #ADDED GEMS
-gem 'bootstrap', '~> 4.0.0.alpha4'
 gem 'react-rails'
+gem 'slim-rails', '3.1.0'
+gem 'sprockets-rails', '~> 3.0', '>= 3.0.4'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
